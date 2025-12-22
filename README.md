@@ -3,7 +3,7 @@
 This repository is used to store and share my note, written as tex/markdown and saved as pdf. Any problem or typo, plz contact ryanfiordstar@outlook.com
 
 目前已有：
-Exsisting Note:
+Existing Note:
 
 动力气象复习
 Dynamic Myteorology Review
